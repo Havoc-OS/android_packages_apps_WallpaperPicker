@@ -17,13 +17,10 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>abstract_unsplash</item>
-        <item>nature_isolated</item>
-        <item>nature_light</item>
-        <item>space_nebulae</item>
-        <item>space_riseup</item>
-        <item>urban_nightroad</item>
+        <item>havoc_carbon</item>
+        <item>havoc_dew</item>
+        <item>havoc_geometric</item>
+        <item>havoc_stars</item>
+        <item>havoc_wood</item>
     </string-array>
 </resources>
